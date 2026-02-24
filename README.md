@@ -42,7 +42,7 @@ https://private-user-images.githubusercontent.com/50967145/554288609-5b5a362e-cb
 
 *   **WebView 壳应用**：此APK是一个纯粹的WebView壳应用。它不包含任何实际站点，而是作为一个自定义加载器，负责加载您已部署的KVideo实例。请确保您的KVideo实例已经部署且可访问。
 *   **最低系统要求**：**Android 8.0 (API 26) 及以上。**
-*   **白屏问题**：Android 7.0 及更低版本的WebView可能不支持本项目使用的ES2017+ JavaScript特性和现代CSS，这可能导致APP白屏。如遇白屏问题，请尝试升级设备的系统WebView组件，或直接在Android 8.0+ 的设备上使用本APP。
+
 
 
 ## 🙏 致谢
