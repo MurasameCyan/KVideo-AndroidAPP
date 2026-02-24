@@ -20,7 +20,7 @@
 ### 🎥 演示视频
 
 点击下方链接观看APP功能演示：
-[观看KVideo-AndroidAPP演示 (8MB)](./assets/demo_video.mp4)
+[观看KVideo-AndroidAPP演示 (8MB)](./demo.mp4)
 或者，你也可以将其下载到本地观看。
 
 
