@@ -12,7 +12,7 @@
 
 ## 🛠️ 如何使用
 
-1.  **安装APP**：获取构建好的KVideo-AndroidAPP APK文件并安装到您的Android设备上。
+1.  **安装APP**：在 Releases 获取构建好的APK文件并安装到您的Android设备上。
 2.  **配置视频项目地址**：首次启动APP时，系统会引导您填入您的KVideo项目部署地址。
 3.  **开始观看**：配置完成后，APP将加载您的KVideo界面，您可以开始浏览和观看视频。
 
