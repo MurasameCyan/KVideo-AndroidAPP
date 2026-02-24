@@ -1,6 +1,6 @@
 # KVideo-AndroidAPP  杰哥影院 公开版
 
-一个专为KVideo项目构建的Android WebView壳应用，旨在提供一个便捷的电视端浏览器入口。本APP是一个预构建的公开版本，您只需配置您的KVideo项目地址即可开始使用。
+一个专为KVideo项目构建的Android WebView壳应用，旨在提供一个便捷的手机端以及电视端入口。本APP是一个预构建的公开版本，您只需配置您的KVideo项目地址即可开始使用。
 
 ## 🚀 主要特性
 
