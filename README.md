@@ -46,6 +46,6 @@ Premium 模式 提供额外的观影体验，进入方法有以下两种：
 
 ## 🙏 致谢
 
-感谢以下开源项目提供了核心支持：
+感谢以下开源项目提供核心支持：
 
 KVideo: https://github.com/KuekHaoYang/KVideo
