@@ -12,8 +12,8 @@
 
 ## 🛠️ 如何使用
 
-1.  **安装APP**：在 [Releases](https://github.com/MurasameCyan/KVideo-AndroidAPP/releases) 获取构建好的APK文件并安装到您的Android设备上。
-2.  **配置视频项目地址**：首次启动APP时，系统会引导您填入您的KVideo站点链接。
+1.  **安装应用**：在 [Releases](https://github.com/MurasameCyan/KVideo-AndroidAPP/releases) 获取构建好的APK文件并安装到您的Android设备上。
+2.  **配置地址**：首次启动APP时，系统会引导您填入您的KVideo站点链接。
 3.  **开始观看**：配置完成后，APP将加载您的KVideo界面，您可以开始浏览和观看视频。
 
 
