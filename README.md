@@ -21,7 +21,7 @@
 https://private-user-images.githubusercontent.com/50967145/554288609-5b5a362e-cbcc-46ce-9b8c-e316abb4641e.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE5NTMyMzcsIm5iZiI6MTc3MTk1MjkzNywicGF0aCI6Ii81MDk2NzE0NS81NTQyODg2MDktNWI1YTM2MmUtY2JjYy00NmNlLTliOGMtZTMxNmFiYjQ2NDFlLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI0VDE3MDg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkNGEzZGU3ZTllODEzNzRkMzU3MjdhZTQ0OWVjNWIzN2MzMmYyZTI1MzIwZTY2NzU0N2IxZTkxYzZlYTA5MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7vFN_LuGRjE_sr81h-QthBheoKNTET80q6qX4L7dsVg
 
 
-### 🔄 重置视频项目地址
+### 🔄 重置视频站链接
 
 如果您需要更换或重新配置KVideo站点链接，只需清除APP的储存空间即可：
 
@@ -38,10 +38,10 @@ Premium 模式 提供额外的观影体验，进入方法有以下两种：
     *   在设备桌面长按 **杰哥影院 公开版** 图标，在弹出的菜单中选择 **"杰哥 不要"**。
 
 
-## ⚠️ 系统要求
+## ⚠️ 注意事项
 
 *   **最低系统要求**：**Android 8.0 (API 26) 及以上。**
-
+*   **特殊情况说明**：**若遇到安卓版本符合但依然显示白屏，请移步到下方KVideo项目咨询。**
 
 
 ## 🙏 致谢
